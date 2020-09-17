@@ -1,1 +1,1 @@
-
+# Įgaliojimų sistema
